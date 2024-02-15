@@ -1,0 +1,2 @@
+pemasukan 10000.00
+pengeluaran 50000.00
